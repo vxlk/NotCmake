@@ -1,0 +1,1 @@
+i hate using cmake so im writing a more intuitive api over it
